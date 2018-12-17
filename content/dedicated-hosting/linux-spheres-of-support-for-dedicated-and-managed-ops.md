@@ -131,7 +131,7 @@ The following antivirus software is supported in the indicated areas:
 
 |   | Installation | Configuration | Troubleshooting | Patching |
 | --- | --- | --- | --- | --- |
-| Sophos Intensive Anti-Virus | Yes | Yes | Yes | Yes |
+| Rackspace Managed Anti-Virus | Yes | Yes | Yes | Yes |
 
 **Note**: Rackspace requires the use of antivirus software on any configurations that use domain controllers and to assist in maintaining PCI compliance.
 
